@@ -1,0 +1,27 @@
+.main {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    color: #2b2839;
+    background-color: #ddebf8;
+    margin: 16px auto;
+    border-bottom: 4px solid #d8cefe;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.info {
+    display: block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+img {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+}
